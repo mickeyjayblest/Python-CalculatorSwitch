@@ -1,2 +1,2 @@
 # Python-CalculatorSwitch
-This a python calculator, using a different approach and OOP
+A python calculator, using a different approach and OOP
